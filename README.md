@@ -129,8 +129,8 @@ LegalEase/
 - *Team Member 1:* RAMANATHAN - Frontend Development (Streamlit) & UI/UX
 - *Team Member 2:* PANDIDURAI - Documentation, Testing & Template Design
 
-*College:* [Jesu college of arts and science,alangudi.]
-*Department:* [BSC.COMPUTER SCIENCE]
+*College:* Jesu College of Arts and Science,Alangudi.
+*Department:* BSC.COMPUTER SCIENCE
 
 🏆 Built For
 
