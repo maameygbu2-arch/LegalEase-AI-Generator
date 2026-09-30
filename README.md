@@ -19,17 +19,6 @@ In India, 90% of people sign legal documents (Rent Agreement, Job Contracts, NDA
 ---
 
 
-LegalEase - AI-Powered Legal Document Generator & Simplifier
-
-> Bridging the gap between complex legal language and common people through AI + Tanglish.
-
-[![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://python.org)
-[![FastAPI](https://img.shields.io/badge/Backend-FastAPI-green)](https://fastapi.tiangolo.com/)
-[![Gemini](https://img.shields.io/badge/AI-Google%20Gemini%201.5%20Pro-orange)](https://ai.google.dev/)
-[![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
-
-🔗 Live Project Link: [Will be deployed soon]
-📂 GitHub Repository: Public
 
 ---
 
